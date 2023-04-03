@@ -1,0 +1,24 @@
+{
+  "name": "my-custom-mui-wrapper",
+  "version": "1.0.0",
+  "description": "My test with custom wrappers on MUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaszczyk/my-custom-mui-wrapper.git"
+  },
+  "keywords": [
+    "mui",
+    "wrapper",
+    "theme"
+  ],
+  "author": "Grzegorz Laszczyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaszczyk/my-custom-mui-wrapper/issues"
+  },
+  "homepage": "https://github.com/glaszczyk/my-custom-mui-wrapper#readme"
+}
